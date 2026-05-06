@@ -81,3 +81,6 @@ To access the system, use the following admin credentials:
 - **Single File Implemenation:** The entire system is contained within Project Code CS112.c for easy compilation and portability.
 - **Modular Function:** The logic is partitioned into specialized functions(e.g. `Jmain2` for the restaurant, `executeGA` for parking) to maintain readability and seperation of concerns.
 
+## LICENSE
+
+This project is licensed under MIT License - see the LICENSE file for details
