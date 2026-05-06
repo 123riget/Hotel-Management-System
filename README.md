@@ -1,5 +1,9 @@
 # Hotel Management System ( A CS112 Project)
 
+![C](https://img.shields.io/badge/Language-C-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
+![Academic](https://img.shields.io/badge/Course-CS112-red.svg)
+
 A comprehensive, console-based Hotel Management System developed in **C** as part of the **CS112** curriculum. This project demonstrates the practical application of modular programming, advanced data structures, and real-time logic handling. 
 
 ## Overview 
