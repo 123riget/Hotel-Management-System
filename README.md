@@ -4,10 +4,10 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 ![Academic](https://img.shields.io/badge/Course-CS112-red.svg)
 
+A comprehensive, console-based Hotel Management System developed in **C** as part of the **CS112** curriculum. This project demonstrates the practical application of modular programming, advanced data structures, and real-time logic handling. 
+
 ## System Demo
 ![Hotel System Demo](myrecording.gif)
-
-A comprehensive, console-based Hotel Management System developed in **C** as part of the **CS112** curriculum. This project demonstrates the practical application of modular programming, advanced data structures, and real-time logic handling. 
 
 ## Overview 
 This application serves as an all-in-one solution for hotel administration. It manages everything from guest registration and room allocation to restaurant billing, parking systems, and employee attendance registers. 
@@ -29,6 +29,20 @@ This application serves as an all-in-one solution for hotel administration. It m
   - **Structures (struct):** Heavily utilized for grouping complex data(Guests, Rooms, Services, Billing).
 - **Time Library:** Ingetratiion of `<time.h>` for real-time date/time stamping and parking duration logic.
 - **Mathematics:** Implementation of leap year logic and GST Calculations.
+
+## Screenshots
+
+### Main Navigation
+![Main Menu](image3.png)
+
+### Restaurant Interface 
+![Restaurant](image1.png)
+
+### Guest Records 
+![Customer Info](image2.png)
+
+### Parking Management
+![Parking System](image4.png)
 
 ## Getting Started 
 
