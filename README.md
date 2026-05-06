@@ -4,6 +4,9 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 ![Academic](https://img.shields.io/badge/Course-CS112-red.svg)
 
+## System Demo
+![Hotel System Demo](myrecording.gif)
+
 A comprehensive, console-based Hotel Management System developed in **C** as part of the **CS112** curriculum. This project demonstrates the practical application of modular programming, advanced data structures, and real-time logic handling. 
 
 ## Overview 
